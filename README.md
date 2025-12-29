@@ -100,7 +100,7 @@ A curated reading list of **Multimodal Federated Learning (MMFL)** papers and da
 
 #### 2024
 - **Adaptive Hyper-graph Aggregation for Modality-Agnostic Federated Learning** — Qi & Li (CVPR, 2024)  
-  [Paper (PDF)](https://openaccess.thecvf.com/content/CVPR2024/papers/Qi_Adaptive_Hyper-graph_Aggregation_for_Modality-Agnostic_Federated_Learning_CVPR_2024_paper.pdf)
+  [Paper (PDF)](https://openaccess.thecvf.com/content/CVPR2024/papers/Qi_Adaptive_Hyper-graph_Aggregation_for_Modality-Agnostic_Federated_Learning_CVPR_2024_paper.pdf) · [Code](https://github.com/MM-Fed/HAMFL)
 
 - **On Disentanglement of Asymmetrical Knowledge Transfer for Modality-Task Agnostic Federated Learning** — Chen & Zhang (AAAI, 2024)  
   [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28706)
@@ -122,13 +122,14 @@ A curated reading list of **Multimodal Federated Learning (MMFL)** papers and da
 
 #### 2023
 - **Harmony: Heterogeneous Multi-Modal Federated Learning through Disentangled Model Training** — Zheng *et al.* (MobiSys, 2023)  
-  [Paper](https://dl.acm.org/doi/10.1145/3581791.3596854)
+  [Paper](https://dl.acm.org/doi/10.1145/3581791.3596854) · [Code](https://github.com/xmouyang/Harmony
+)
 
 - **FedSea: Federated Learning via Selective Feature Alignment for Non-IID Multimodal Data** — Lyu *et al.* (IEEE TMM, 2023)  
   [Paper](https://ieeexplore.ieee.org/document/10185550)
 
 - **CreamFL: Multimodal Federated Learning via Contrastive Representation Ensemble and Aggregation** — Yu *et al.* (ICLR, 2023)  
-  [Paper](https://arxiv.org/abs/2302.08888)
+  [Paper](https://arxiv.org/abs/2302.08888) · [Code](https://github.com/FLAIR-THU/CreamFL)
 
 - **FedMFS: Federated Multimodal Fusion Learning with Selective Modality Communication** — Feng *et al.* (arXiv, 2023)  
   [Paper](https://arxiv.org/abs/2302.13550)
@@ -170,19 +171,19 @@ A curated reading list of **Multimodal Federated Learning (MMFL)** papers and da
 
 #### 2025
 - **Learning Reconfigurable Representations for Multimodal Federated Learning with Missing Data** — Nguyen *et al.* (arXiv, 2025)  
-  [Paper](https://arxiv.org/abs/2510.22880)
+  [Paper](https://arxiv.org/abs/2510.22880) · [Code](https://github.com/nmduonggg/PEPSY)
 
 - **Multimodal Federated Learning with Missing Modalities through Feature Imputation Network** — Poudel *et al.* (arXiv, 2025)  
-  [Paper](https://arxiv.org/abs/2505.20232)
+  [Paper](https://arxiv.org/abs/2505.20232) · [Code](https://github.com/bhattarailab/FedFeatGen)
 
 - **Multimodal Online Federated Learning with Modality Missing in Internet of Things** — Wang *et al.* (arXiv, 2025)  
   [Paper](https://arxiv.org/abs/2505.16138)
 
 - **MMiC: Mitigating Modality Incompleteness in Clustered Multimodal Federated Learning** — (arXiv, 2025)  
-  [Paper](https://arxiv.org/abs/2505.06911)
+  [Paper](https://arxiv.org/abs/2505.06911) · [Code](https://github.com/gotobcn8/MMiC)
 
 - **Leveraging Foundation Models for Multi-modal Federated Learning with Incomplete Modality (FedMVP)** — Che *et al.* (arXiv, 2024)  
-  [Paper](https://arxiv.org/abs/2406.11048)
+  [Paper](https://arxiv.org/abs/2406.11048) · [Code](https://github.com/mainaksingha01/FedMVP)
 
 #### 2024
 - **Cross-Modal Prototype based Multimodal Federated Learning under Severely Missing Modality (MFCPL)** — Le *et al.* (arXiv, 2024)  
@@ -232,13 +233,13 @@ A curated reading list of **Multimodal Federated Learning (MMFL)** papers and da
   [Paper](https://arxiv.org/abs/2411.14717) · [Code](https://github.com/1xbq1/FedMLLM)
 
 - **Federated Text-driven Prompt Generation for Vision-Language Models** — Qiu *et al.* (ICLR, 2024)  
-  [Paper](https://openreview.net/forum?id=NW31gAylIm)
+  [Paper](https://openreview.net/forum?id=NW31gAylIm) · [Code](https://github.com/boschresearch/FedTPG)
 
 - **Global and Local Prompts Cooperation via Optimal Transport for Federated Learning** — (CVPR, 2024)  
-  [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_Global_and_Local_Prompts_Cooperation_via_Optimal_Transport_for_Federated_Learning_CVPR_2024_paper.html)
+  [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_Global_and_Local_Prompts_Cooperation_via_Optimal_Transport_for_Federated_Learning_CVPR_2024_paper.html) · [Code](https://github.com/HongxiaLee/FedOTP)
 
 - **FedDAT: Foundation Model Finetuning in Multimodal Heterogeneous Federated Learning** — (AAAI, 2024)  
-  [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28772)
+  [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28772) · [Code](https://github.com/HaokunChen245/FedDAT)
 
 - **Towards Multi-modal Transformers in Federated Learning (FedCola)** — Sun *et al.* (ECCV, 2024)  
   [Paper](https://arxiv.org/abs/2404.12467) · [Code](https://github.com/imguangyu/FedCola)
@@ -263,7 +264,7 @@ A curated reading list of **Multimodal Federated Learning (MMFL)** papers and da
 
 #### 2021
 - **FedCMR: Federated Cross-Modal Retrieval** — Zong *et al.* (SIGIR, 2021)  
-  [Paper](https://dl.acm.org/doi/10.1145/3404835.3462989)
+  [Paper](https://dl.acm.org/doi/10.1145/3404835.3462989) · [Code](https://github.com/hasakiXie123/FedCMR)
 
 ---
 
