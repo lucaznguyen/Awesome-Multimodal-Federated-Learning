@@ -29,8 +29,6 @@ A curated, community-driven reading list of **Multimodal Federated Learning (MMF
   - [Federated Multimodal Benchmarks](#federated-multimodal-benchmarks)
   - [Common Multimodal Datasets Used in MMFL](#common-multimodal-datasets-used-in-mmfl)
 - [How to Contribute](#how-to-contribute)
-- [Citation](#citation)
-- [License](#license)
 
 ---
 
