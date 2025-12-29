@@ -1,10 +1,12 @@
 # Awesome Multimodal Federated Learning (MMFL)
 
-A curated, community-driven reading list of **Multimodal Federated Learning (MMFL)** papers and datasets (vision-language, audio-visual-text, sensor fusion, medical vision-language, etc.).  
-**Scope:** papers where *federated learning is central* and the learning problem/model/data is **multimodal** (or explicitly “cross-modal”, “multi-modal”, “multi-view” in an MMFL setting).  
+A curated reading list of **Multimodal Federated Learning (MMFL)** papers and datasets.  
+
+**Scope:** papers where **federated learning is central** and the learning problem/model/data is **multimodal**.  
+
 **Last updated:** 2025-12-29
 
-> ⚠️ “All papers” is a moving target. This list aims to be **as complete as possible** up to the date above. If anything is missing, please open an issue / PR!
+> ⚠️ "All papers"" is a moving target. This list aims to be **as complete as possible** up to the date above. If anything is missing, please open an issue / PR!
 
 ---
 
