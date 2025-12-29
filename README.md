@@ -481,18 +481,3 @@ PRs are welcome! Please keep entries:
 
 **Paper entry format (recommended):**
 - **Title** — Authors. (Venue, Year) [Paper](...) · [Code](...) · [Dataset](...)
-
----
-
-## Citation
-
-If you use this list in a survey or a project, you can cite it as:
-
-```bibtex
-@misc{awesome_mmfl_2025,
-  title   = {Awesome Multimodal Federated Learning (MMFL)},
-  author  = {Community},
-  year    = {2025},
-  note    = {Last updated: 2025-12-29},
-  howpublished = {\url{https://github.com/<YOUR-USERNAME>/awesome-mmfl}}
-}
